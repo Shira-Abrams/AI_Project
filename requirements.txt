@@ -1,0 +1,8 @@
+langchain_openai
+langchain
+langchain_community
+boto3
+botocore
+google-search-results
+wikipedia
+numexpr
